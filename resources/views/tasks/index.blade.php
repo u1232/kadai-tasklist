@@ -12,7 +12,7 @@
             <thead>
                 <tr>
                     <th>id</th>
-                    <th>メッセージ</th>
+                    <th>タスク</th>
                 </tr>
             </thead>
             <tbody>
